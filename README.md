@@ -1,2 +1,1 @@
-# Babuk-RansomWare
-Cracked version of Babuk Ransomware Including the missing Locker files. Including source code.
+![azd](https://i.imgur.com/Pl13W4h.jpg)
